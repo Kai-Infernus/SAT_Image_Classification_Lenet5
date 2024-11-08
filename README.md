@@ -45,10 +45,10 @@ The modified LeNet-5 model includes convolutional, pooling, and fully connected 
 ## Results
 Training performance is visualized below. The model achieves good accuracy on the EuroSAT dataset, demonstrating effective land cover classification.
 
-# Loss vs. Epoch
+# Accuracy vs. Epoch
 ![image](https://github.com/user-attachments/assets/bb62ba94-4b85-404b-8efd-7dc0ab789d6b)
 
-# Accuracy vs. Epoch
+# Loss vs. Epoch
 ![image](https://github.com/user-attachments/assets/33bdb337-cd98-48ae-8139-19d3260c6ce4)
 
 ## Installation
